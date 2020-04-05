@@ -12,8 +12,8 @@ Smart RGB/RGBCW spotlight for different applications. The compact design make Pr
 ### What is it?
 The compact design make Proxima Alpha a portable led light. The spotlight has 40 RGB LEDs, one OLED display 0.96" and USB-C connector.
 The brain of this spotlight is the ESP8266. Dimensions of the spotlight: 90 x 60 x 10mm.
-È possibile utilizzare questo dispositivo per molte applicazioni:
-luce per fotografia, luce da discoteca e altro.
+This device can be used for many applications:
+photography light, disco light and more.
 
 Through the OLED display, you can change all the settings of the spotlight.
 Some parameters that you can modify:
