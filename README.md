@@ -7,24 +7,24 @@ The goal of OBJEX is to develop IoT systems/devices.
 
 **Elevator pitch**
 
-Smart RGB/RGBCW spotlight for different applications. The compact design make Proxima Alpha a portable led light.
+Smart RGB/RGBCW spotlight for different applications. The compact design makes Proxima Alpha a portable led light.
 
 ### What is it?
-The compact design make Proxima Alpha a portable led light. The spotlight has 40 RGB LEDs, one OLED display 0.96" and USB-C connector.
+The compact design makes Proxima Alpha a portable led light. The spotlight has 40 RGB LEDs, one OLED display 0.96" and a USB-C connector.
 The brain of this spotlight is the ESP8266. Dimensions of the spotlight: 90 x 60 x 10mm.
 This device can be used for many applications:
 photography light, disco light and more.
 
-Through the OLED display, you can change all the settings of the spotlight.
+Through the OLED display, you can change some of the operating settings.
 Some parameters that you can modify:
-- Intensity of red, 255 levels
-- Intensity of green, 255 levels
-- Intensity of blue, 255 levels
+- The intensity of red, 255 levels
+- The intensity of green, 255 levels
+- The intensity of blue, 255 levels
 - Brightness
 - Preset effects (Fade, strobe, breath)
 - Effects and transitions
 - Energy profile
-- Cloud settings(Support with firebase, redis etc.)
+- Cloud settings(Support with Firebase, Redis etc.)
 - WiFi settings
 
 
@@ -43,7 +43,7 @@ I developed this project because I needed a led spotlight for different uses. Th
 ### Issues
 Currently the project has no technical problems.
 
-### The future of this PROXIMA?
+### The future of PROXIMA?
 In the future I will continue the project.
 
 **Margins of improvement**
