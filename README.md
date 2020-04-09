@@ -55,5 +55,6 @@ In the future I will continue the project.
 - Create a case to protect the spotlight
 
 ## Demonstration videos
-[<img src="https://img.youtube.com/vi/qUjyKaQ7cE4&t/maxresdefault.jpg" width="80%">](https://youtu.be/qUjyKaQ7cE4&t)
+
+[<img src="https://img.youtube.com/vi/qUjyKaQ7cE4/maxresdefault.jpg" width="80%">](https://youtu.be/qUjyKaQ7cE4)
 
