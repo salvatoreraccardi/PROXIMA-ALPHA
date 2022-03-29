@@ -30,7 +30,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 // WS2812B
 #define LED_PIN D7
 #define LED_COUNT 40
-Adafruit_NeoPixel RGBpanel(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel RGBpanel(LED_COUNT, LED_PIN, NEO_RGBW + NEO_KHZ800);
 
 // CONN
 #define WIFI_SSID ""
